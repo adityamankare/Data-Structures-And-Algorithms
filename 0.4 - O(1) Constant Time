@@ -1,0 +1,4 @@
+ //O(1) - Constant Time
+function compressFirstBox(boxes) {
+	console.log(boxes[0])
+}
