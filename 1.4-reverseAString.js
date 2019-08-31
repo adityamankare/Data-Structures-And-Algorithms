@@ -7,6 +7,7 @@ function reverse(str){
 	var reverseSplitString = splitString.reverse();
 	var result = reverseSplitString.join("")
 	console.log(result);
+	return result;
 }
 
 reverse('Hi, my name is Adi');
