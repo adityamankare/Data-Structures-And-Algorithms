@@ -23,4 +23,5 @@ function firstRecurringCharacter(input){
 }
 
 firstRecurringCharacter([2,5,1,2,3,5,1,2,4]);
-//O(n) 
+//O(n) time complexity (brute force solution had O(n^2)
+//O(n) space complexity (brute force solution had O(1), this is a tradeoff for faster code)
